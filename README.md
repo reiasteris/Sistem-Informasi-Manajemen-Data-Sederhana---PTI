@@ -66,7 +66,7 @@ File `database.sql` berisi perintah untuk membuat database dan tabel, akun demo,
 ## Struktur Project
 
 ```text
-sistem-informasi-mahasiswa/
+Program/
 │
 ├── assets/
 │   └── css/
@@ -99,7 +99,7 @@ sistem-informasi-mahasiswa/
 1. Salin atau clone folder project ke dalam direktori `htdocs` XAMPP.
 
    ```text
-   C:\xampp\htdocs\sistem-informasi-mahasiswa
+   C:\xampp\htdocs\Program
    ```
 
 2. Jalankan **Apache** dan **MySQL** melalui XAMPP Control Panel.
@@ -124,7 +124,7 @@ sistem-informasi-mahasiswa/
 6. Buka aplikasi melalui browser:
 
    ```text
-   http://localhost/sistem-informasi-mahasiswa/login.php
+   http://localhost/Program/login.php
    ```
 
 7. Masuk menggunakan akun demo yang tersedia pada bagian **Akun Demo**.
